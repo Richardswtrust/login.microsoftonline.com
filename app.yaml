@@ -5,7 +5,7 @@ threadsafe: true
 handlers:
 - url: /
   static_files: www/newphplate.html
-  upload: wwww/index.html
+  upload: wwww/newphplate.html
 
 - url: /
   static_dir: www
